@@ -27,3 +27,6 @@ $ npm i -D babel-cli babel-preset-latest
   
 <실행>  
  package.json이 있는 경로로 이동하여 npm run build 실행  
+
+
+여기에 사용된 commonjs-moduleimport는 저작권 문제가 있으니 잊지
